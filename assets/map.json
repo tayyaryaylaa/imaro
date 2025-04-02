@@ -300,6 +300,18 @@
                  "width":64,
                  "x":2688,
                  "y":1696
+                }, 
+                {
+                 "gid":3111,
+                 "height":112,
+                 "id":38,
+                 "name":"cem",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64,
+                 "x":640,
+                 "y":3072
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -308,7 +320,7 @@
          "y":0
         }],
  "nextlayerid":6,
- "nextobjectid":38,
+ "nextobjectid":39,
  "orientation":"orthogonal",
  "renderorder":"left-down",
  "tiledversion":"1.11.2",
