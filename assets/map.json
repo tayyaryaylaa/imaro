@@ -312,6 +312,18 @@
                  "width":64,
                  "x":640,
                  "y":3072
+                }, 
+                {
+                 "gid":3012,
+                 "height":32,
+                 "id":39,
+                 "name":"netflix",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":480,
+                 "y":2912
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -320,7 +332,7 @@
          "y":0
         }],
  "nextlayerid":6,
- "nextobjectid":39,
+ "nextobjectid":40,
  "orientation":"orthogonal",
  "renderorder":"left-down",
  "tiledversion":"1.11.2",
