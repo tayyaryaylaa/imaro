@@ -324,6 +324,18 @@
                  "width":32,
                  "x":480,
                  "y":2912
+                }, 
+                {
+                 "gid":3112,
+                 "height":112,
+                 "id":40,
+                 "name":"ahmet",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64,
+                 "x":5152,
+                 "y":3264
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -332,7 +344,7 @@
          "y":0
         }],
  "nextlayerid":6,
- "nextobjectid":40,
+ "nextobjectid":41,
  "orientation":"orthogonal",
  "renderorder":"left-down",
  "tiledversion":"1.11.2",
